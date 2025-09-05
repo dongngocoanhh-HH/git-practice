@@ -1,0 +1,78 @@
+[33mcommit e8182c0fedb43ec97f12a7640d5096beed20a7e2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpractice-branch[m[33m)[m
+Author: Đổng Ngọc Oanh <dongngocoanhh@gmail.com>
+Date:   Fri Sep 5 14:05:22 2025 +0700
+
+    Add line 5
+
+[33mcommit dfabb9e4f85a9110065663098c09d977afe5747c[m
+Author: Đổng Ngọc Oanh <dongngocoanhh@gmail.com>
+Date:   Fri Sep 5 14:05:06 2025 +0700
+
+    Add line 4
+
+[33mcommit 2cd920c1909a44eba76c90ba8000b2009b700391[m
+Author: Đổng Ngọc Oanh <dongngocoanhh@gmail.com>
+Date:   Fri Sep 5 14:04:04 2025 +0700
+
+    Add line 3
+
+[33mcommit 7d2372dbfe9d39493924251f6091e3bcb27a59d3[m
+Author: Đổng Ngọc Oanh <dongngocoanhh@gmail.com>
+Date:   Fri Sep 5 14:03:53 2025 +0700
+
+    Add line 2
+
+[33mcommit 06462d1541641afc50712675e9851795bd119f64[m
+Author: Đổng Ngọc Oanh <dongngocoanhh@gmail.com>
+Date:   Fri Sep 5 13:54:25 2025 +0700
+
+    Add line 1
+
+[33mcommit 90d2bf4a2ec68c7c6625c463c303c0d58bfacdf5[m[33m ([m[1;31morigin/practice-branch[m[33m)[m
+Author: Đổng Ngọc Oanh <dongngocoanhh@gmail.com>
+Date:   Fri Sep 5 13:46:17 2025 +0700
+
+    Restore readme changes
+
+[33mcommit 253f318ff71b5ee3f454583459ac84a2564e6424[m
+Author: Đổng Ngọc Oanh <dongngocoanhh@gmail.com>
+Date:   Fri Sep 5 13:43:13 2025 +0700
+
+    Add note.md
+
+[33mcommit d4e9d9aebc6b394b7e5ffdce3ac2e0113bb0ba6b[m
+Author: Đổng Ngọc Oanh <dongngocoanhh@gmail.com>
+Date:   Fri Sep 5 13:32:25 2025 +0700
+
+    Remove exercise1
+
+[33mcommit 751178112088730fb8244e30bf7e88369efbc295[m
+Author: Đổng Ngọc Oanh <dongngocoanhh@gmail.com>
+Date:   Fri Sep 5 13:31:40 2025 +0700
+
+    Rename practice1 to exercise1
+
+[33mcommit d66e2a584bacfea2715360a5856261234f63333b[m
+Author: Đổng Ngọc Oanh <dongngocoanhh@gmail.com>
+Date:   Fri Sep 5 13:29:11 2025 +0700
+
+    Add practice1
+
+[33mcommit d038775816a9feb518b5f272fee7612fbe2da70e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 1557cb5 921b5d9
+Author: Dong Ngoc Oanh <dongngocoanh@gmail.com>
+Date:   Thu Sep 4 15:15:30 2025 +0700
+
+    Merge branch 'add-info'
+
+[33mcommit 921b5d91f92c242d89a1408d682cdbb35c403039[m
+Author: Dong Ngoc Oanh <dongngocoanh@gmail.com>
+Date:   Thu Sep 4 15:08:02 2025 +0700
+
+    Add personal info
+
+[33mcommit 1557cb567e093a145c1a95cdaff36a6c1b15c10e[m
+Author: Dong Ngoc Oanh <dongngocoanh@gmail.com>
+Date:   Thu Sep 4 14:50:46 2025 +0700
+
+    Add README with personal info
